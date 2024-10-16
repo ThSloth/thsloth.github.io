@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DcfbuPOr.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"python/PySide6/263.md","filePath":"python/PySide6/263.md"}'),o={name:"python/PySide6/263.md"};function n(r,s,c,p,d,i){return a(),t("div")}const f=e(o,[["render",n]]);export{m as __pageData,f as default};
