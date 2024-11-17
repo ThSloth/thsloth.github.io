@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DcfbuPOr.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"trade/wind/index.md","filePath":"trade/wind/index.md"}'),n={name:"trade/wind/index.md"};function r(d,i,o,s,c,p){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
